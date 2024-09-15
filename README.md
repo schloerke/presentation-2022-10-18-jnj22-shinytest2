@@ -8,8 +8,6 @@ http://schloerke.com/presentation-2022-10-18-jnj22-shinytest2/
 * PDF:
 http://schloerke.com/presentation-2022-10-18-jnj22-shinytest2/jnj22-shinytest2.pdf
 
-* Recording: https://www.rstudio.com/conference/2022/talks/shinytest2-unit-testing-for-shiny/
-
 
 ## Resources for learning more
 
